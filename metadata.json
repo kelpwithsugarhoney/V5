@@ -1,7 +1,7 @@
 {
-    "name": "V5",
-    "creator": "Zurviq, Rdbt, EpilsonPhoenix and Contributors",
-    "description": "Cheaters get banned",
+    "name": "V5-Community-Fork",
+    "creator": "Zurviq, Rdbt, EpilsonPhoenix and Contributors; community maintenance by kelpwithsugarhoney",
+    "description": "Community-maintained fork of V5",
     "version": "5.2.2",
     "entry": "loader.js"
 }
